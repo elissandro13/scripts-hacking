@@ -36,7 +36,6 @@ def main():
     
     for thread in thread_list:
         thread.start()
-    brute(180,185)
 
 if __name__ == "__main__":
     main()
